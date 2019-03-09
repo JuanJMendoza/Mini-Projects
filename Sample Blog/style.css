@@ -1,0 +1,40 @@
+body{
+	font-family: 'Source Sans Pro', sans-serif;
+	/*font-weight: 400;*/
+	border: 20px solid #bdc3c7;
+	margin: 20px auto;
+	padding: 20px;
+	max-width: 700px;
+	/* When 700px > 80% of screen adjust width to stay 80% of screen dynamically from then on.*/
+	width: 80%;
+}
+
+/* Gradient transparent - color - transparent */
+hr.style-two {
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+}
+
+.quote{
+	border-left: 5px solid #bdc3c7;
+	padding-left: 5px;
+	text-align: left;
+}
+
+.date{
+	letter-spacing: 0.2rem;
+	text-transform: uppercase;
+	color: #3498db;
+}
+.title{
+	color: #2c3e50;
+	font-size: 2.0rem;
+}
+.sub{
+	font-size: 8px;
+}
+
+.article{
+	margin-bottom: 20px;
+}
