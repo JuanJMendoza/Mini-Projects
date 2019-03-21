@@ -25,4 +25,4 @@ Created a static <a href="https://github.com/JuanJMendoza/Mini-Projects/tree/mas
 
 Created a dynamic <a href="https://github.com/JuanJMendoza/Mini-Projects/tree/master/Image%20Gallery%20w.%20Bootstrap%203"><strong><em>Image Gallery</em></strong></a> using <em>HTML</em>, <em>CSS</em>, and <em>Bootstrap 3</em>.
 
-<img src="https://i.imgur.com/ohKadJ8.png" width="500" height="500">
+<img src="https://i.imgur.com/9P4tnqN.gif" width="600" height="500">
