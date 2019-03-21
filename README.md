@@ -30,6 +30,6 @@ Created a responsive <a href="https://github.com/JuanJMendoza/Mini-Projects/tree
 
 ## Startup Landing Page
 
-Created a responsive <a href="https://github.com/JuanJMendoza/Mini-Projects/tree/master/Image%20Gallery%20w.%20Bootstrap%203"><strong><em>Landing Page</em></strong></a> for a nonexistent startup using <em>HTML</em>, <em>CSS</em>, and <em>Bootstrap 3</em>.
+Created a responsive <a href="https://github.com/JuanJMendoza/MiniProjects/tree/master/Startup%20Landing%20Page"><strong><em>Landing Page</em></strong></a> for a nonexistent startup using <em>HTML</em>, <em>CSS</em>, and <em>Bootstrap 3</em>.
 
 <img src="https://i.imgur.com/2XIfzEI.jpg" width="500" height="500">
