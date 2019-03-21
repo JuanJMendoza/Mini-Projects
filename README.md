@@ -1,5 +1,5 @@
 # Mini-Projects
-###### Currently following along Colt Steele's Web Developer Bootcamp in the hopes of enhancing my knowledge and better equiping my tech-stack.
+###### Currently following along <em>Colt Steele's Web Developer Bootcamp</em> in the hopes of enhancing my knowledge and better equiping my tech-stack.
 
 ## Tic Tac Toe Layout
 
