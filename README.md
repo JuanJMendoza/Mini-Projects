@@ -1,5 +1,5 @@
 # Mini-Projects
-##### <em>Colt Steele's Web Developer Bootcamp</em> Mini-Projects
+#### <em>Colt Steele's Web Developer Bootcamp</em> Mini-Projects
 
 ## Tic Tac Toe Layout
 
