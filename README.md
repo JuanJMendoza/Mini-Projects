@@ -26,7 +26,7 @@ Created a static <a href="https://github.com/JuanJMendoza/Mini-Projects/tree/mas
 
 Created a responsive <a href="https://github.com/JuanJMendoza/Mini-Projects/tree/master/Image%20Gallery%20w.%20Bootstrap%203"><strong><em>Image Gallery</em></strong></a> using <em>HTML</em>, <em>CSS</em>, and <em>Bootstrap 3</em>.
 
-<img src="https://media.giphy.com/media/ZxLj7F52sG4DtMd50S/giphy.gif" width="500" height="300">
+<img src="https://media.giphy.com/media/ZxLj7F52sG4DtMd50S/giphy.gif" width="500" height="400">
 
 
 ## Startup Landing Page
@@ -40,7 +40,7 @@ Created a responsive <a href="https://github.com/JuanJMendoza/MiniProjects/tree/
 
 Created a responsive <a href="https://github.com/JuanJMendoza/Mini-Projects/tree/master/Image%20Gallery%20w.%20Bootstrap%204"><strong><em>Image Gallery</em></strong></a> using <em>HTML</em>, <em>CSS</em>, and <em>Bootstrap 4</em>.
 
-<img src="https://media.giphy.com/media/tp7VJPwGNXRuMnnFwn/giphy.gif" width="500" height="300">
+<img src="https://media.giphy.com/media/tp7VJPwGNXRuMnnFwn/giphy.gif" width="500" height="400">
 
 
 ## Museum of Candy
