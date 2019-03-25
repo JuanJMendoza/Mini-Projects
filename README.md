@@ -5,7 +5,7 @@
 
 Created a static <a href="https://github.com/JuanJMendoza/Mini-Projects/tree/master/Tic%20Tac%20Toe%20Layout"><strong><em>Tic Tac Toe Layout</em></strong></a> using <em>HTML</em> and <em>CSS</em>.
 
-<img src="https://i.imgur.com/WuYncTN.png" width="300" height="300">
+<img src="https://i.imgur.com/WuYncTN.png" width="300" height="250">
 
 
 ## Image Gallary w. only HTML & CSS
