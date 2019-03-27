@@ -45,7 +45,7 @@ Created a responsive <a href="https://github.com/JuanJMendoza/Mini-Projects/tree
 
 ## Museum of Candy
 
-Created a responsive <a href="https://github.com/JuanJMendoza/MiniProjects/tree/master/Museum%20of%20Candy"><strong><em>Image Gallery</em></strong></a> using <em>HTML</em>, <em>CSS</em>, and <em>Bootstrap 4</em>.
+Created a responsive Image Gallery named <a href="https://github.com/JuanJMendoza/MiniProjects/tree/master/Museum%20of%20Candy"><strong><em>Museum of Candy</em></strong></a> using <em>HTML</em>, <em>CSS</em>, and <em>Bootstrap 4</em>.
 
 <img src="https://media.giphy.com/media/1ziCLHavdvsWCkh4m2/giphy.gif" width="500" height="300">
 
