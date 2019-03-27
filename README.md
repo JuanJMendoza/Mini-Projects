@@ -48,3 +48,10 @@ Created a responsive <a href="https://github.com/JuanJMendoza/Mini-Projects/tree
 Created a responsive <a href="https://github.com/JuanJMendoza/MiniProjects/tree/master/Museum%20of%20Candy"><strong><em>Image Gallery</em></strong></a> using <em>HTML</em>, <em>CSS</em>, and <em>Bootstrap 4</em>.
 
 <img src="https://media.giphy.com/media/1ziCLHavdvsWCkh4m2/giphy.gif" width="500" height="300">
+
+
+## Incredibly Simple JavaScript Guessing Game
+
+Created a <a href="https://github.com/JuanJMendoza/MiniProjects/tree/master/Simple%20Guessing%20Game%20w.%20only%20JavaScript"><strong><em>Guessing Game</em></strong></a> using the very minimum of <em>HTML</em>, and <em>JavaScript</em>.
+
+<img src="https://media.giphy.com/media/toL6jxrrARvrS2sT56/giphy.gif" width="400" height="125">
