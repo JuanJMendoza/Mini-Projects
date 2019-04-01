@@ -55,3 +55,10 @@ Created a responsive Image Gallery named <a href="https://github.com/JuanJMendoz
 Created a <a href="https://github.com/JuanJMendoza/MiniProjects/tree/master/Simple%20Guessing%20Game%20w.%20only%20JavaScript"><strong><em>Guessing Game</em></strong></a> using the very minimum of <em>HTML</em>, and <em>JavaScript</em>.
 
 <img src="https://media.giphy.com/media/toL6jxrrARvrS2sT56/giphy.gif" width="400" height="125">
+
+
+## Score Keeper
+
+Created a simple <a href="https://github.com/JuanJMendoza/MiniProjects/tree/master/Score%20Keeper"><strong><em>Score Keeper</em></strong></a> using the very minimum of <em>HTML</em>, <em>CSS</em>, and mostly <em>JavaScript</em>.
+
+<img src="https://media.giphy.com/media/2wgZJh27QTiwyN6vTy/giphy.gif" width="400" height="125">
