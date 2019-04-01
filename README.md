@@ -77,6 +77,6 @@ Created a <a href="https://github.com/JuanJMendoza/MiniProjects/tree/master/Simp
 
 Created a simple <a href="https://github.com/JuanJMendoza/MiniProjects/tree/master/Score%20Keeper"><strong><em>Score Keeper</em></strong></a> using the very minimum of <em>HTML</em>, <em>CSS</em>, and mostly <em>JavaScript</em>.
 
-><em>This one was more back-end-y, which I appreciate because I like back-end as much as front-end. I had an incredible time getting my hands dirty with more JavaScript. <a href="https://github.com/JuanJMendoza/MiniProjects/tree/master/Score%20Keeper"><strong><em>Score Keeper</em></strong></a> taught me about DOM manipulation and how to query elements by class name, id, or tag. This project made me feel really good about my progress and I can't wait to continue learning. I want to know it all!! xD</em>
+><em>This one was more back-end-y, which I appreciate because I like back-end as much as front-end. I had an incredible time getting my hands dirty with more JavaScript. <a href="https://github.com/JuanJMendoza/MiniProjects/tree/master/Score%20Keeper"><strong><em>Score Keeper</em></strong></a> taught me about DOM manipulation and how to query elements by class name, id, and tag. This project made me feel really good about my progress and I can't wait to continue learning. I want to know it all!! xD</em>
 
 <img src="https://media.giphy.com/media/2wgZJh27QTiwyN6vTy/giphy.gif" width="400" height="125">
