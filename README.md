@@ -41,7 +41,7 @@ Created a responsive <a href="https://github.com/JuanJMendoza/Mini-Projects/tree
 
 Created a responsive <a href="https://github.com/JuanJMendoza/MiniProjects/tree/master/Startup%20Landing%20Page"><strong><em>Landing Page</em></strong></a> for a nonexistent startup using <em>HTML</em>, <em>CSS</em>, and <em>Bootstrap 3</em>.
 
-><em>Working on the <a href="https://github.com/JuanJMendoza/MiniProjects/tree/master/Startup%20Landing%20Page"><strong><em>Landing Page</em></strong></a> project gave me more practice working with the nav tag, nav classes which come with Bootstrap 3, icons, and the the ability to make web pages responsive according to screen size(phones, tablets, desktops). It also taught me how to make a background and image using background's URL() function in CSS and how to stretch the picture to take up the entire browser window and adjust accordingl. </em>
+><em>Working on the <a href="https://github.com/JuanJMendoza/MiniProjects/tree/master/Startup%20Landing%20Page"><strong><em>Landing Page</em></strong></a> project gave me more practice working with the nav tag, nav classes which come with Bootstrap 3, icons, and the the ability to make web pages responsive according to screen size(phones, tablets, desktops). It also taught me how to set an image as a background using background's URL() function in CSS and how to stretch the picture to take up the entire browser window and adjust accordingly. </em>
 
 <img src="https://i.imgur.com/2XIfzEI.jpg" width="500" height="500">
 
