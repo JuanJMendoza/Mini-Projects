@@ -86,6 +86,6 @@ Created a simple <a href="https://github.com/JuanJMendoza/MiniProjects/tree/mast
 
 Built <a href="https://github.com/JuanJMendoza/MiniProjects/tree/master/Color%20Game"><strong><em>Color Game</em></strong></a> using <em>HTML</em>, <em>CSS</em>, and <strong>a lot</strong> of <em>Vanilla JavaScript</em>!
 
-><em> I learned so much building <a href="https://github.com/JuanJMendoza/MiniProjects/tree/master/Color%20Game"><strong><em>Color Game</em></strong></a>, I finally dove deep into JavaScript and was able to intertwine html, css, and javascript fluidly. I ran into many bugs but none I couldn't hurdle over! I'm extremly proud of myself for having completed this project, and I look forward to making more!!</em>
+><em> I learned so much building <a href="https://github.com/JuanJMendoza/MiniProjects/tree/master/Color%20Game"><strong><em>Color Game</em></strong></a>, I finally dove deep into JavaScript and was able to intertwine HTML, CSS, and JavaScript fluidly. I learned how to modularize functions so to keep my codebase clean and readable, and I got more practice with bare-bone CSS! I ran into many bugs but none I couldn't hurdle over! I'm extremly proud of myself for having completed this project, and I look forward to making more!!</em>
 
 <img src="https://media.giphy.com/media/fSdqYkJsG6PrFzrDKD/giphy.gif" width="500" height="400">
