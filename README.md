@@ -80,3 +80,12 @@ Created a simple <a href="https://github.com/JuanJMendoza/MiniProjects/tree/mast
 ><em>This one was more back-end-y, which I appreciate because I like back-end as much as front-end. I had an incredible time getting my hands dirty with more JavaScript. <a href="https://github.com/JuanJMendoza/MiniProjects/tree/master/Score%20Keeper"><strong><em>Score Keeper</em></strong></a> taught me about DOM manipulation and how to query elements by class name, id, and tag. This project made me feel really good about my progress and I can't wait to continue learning. I want to know it all!! xD</em>
 
 <img src="https://media.giphy.com/media/2wgZJh27QTiwyN6vTy/giphy.gif" width="400" height="125">
+
+
+## Color Game 
+
+Built <a href="https://github.com/JuanJMendoza/MiniProjects/tree/master/Color%20Game"><strong><em>Color Game</em></strong></a> using <em>HTML</em>, <em>CSS</em>, and <strong>a lot</strong> of <em>Vanilla JavaScript</em>!
+
+><em> I learned so much building <a href="https://github.com/JuanJMendoza/MiniProjects/tree/master/Color%20Game"><strong><em>Color Game</em></strong></a>, I finally dove deep into JavaScript and was able to intertwine html, css, and javascript fluidly. I ran into many bugs but none I couldn't hurdle over! I'm extremly proud of myself for having completed this project, and I look forward to making more!!</em>
+
+<img src="https://media.giphy.com/media/fSdqYkJsG6PrFzrDKD/giphy.gif" width="450" height="350">
