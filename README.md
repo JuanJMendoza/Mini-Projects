@@ -88,4 +88,4 @@ Built <a href="https://github.com/JuanJMendoza/MiniProjects/tree/master/Color%20
 
 ><em> I learned so much building <a href="https://github.com/JuanJMendoza/MiniProjects/tree/master/Color%20Game"><strong><em>Color Game</em></strong></a>, I finally dove deep into JavaScript and was able to intertwine html, css, and javascript fluidly. I ran into many bugs but none I couldn't hurdle over! I'm extremly proud of myself for having completed this project, and I look forward to making more!!</em>
 
-<img src="https://media.giphy.com/media/fSdqYkJsG6PrFzrDKD/giphy.gif" width="450" height="350">
+<img src="https://media.giphy.com/media/fSdqYkJsG6PrFzrDKD/giphy.gif" width="500" height="400">
