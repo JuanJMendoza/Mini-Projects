@@ -89,3 +89,12 @@ Built <a href="https://github.com/JuanJMendoza/MiniProjects/tree/master/Color%20
 ><em> I learned so much building <a href="https://github.com/JuanJMendoza/MiniProjects/tree/master/Color%20Game"><strong><em>Color Game</em></strong></a>, I finally dove deep into JavaScript and was able to intertwine HTML, CSS, and JavaScript fluidly. I learned how to modularize functions so to keep my codebase clean and readable, and I got more practice with bare-bone CSS! I ran into many bugs but none I couldn't hurdle over! I'm extremly proud of myself for having completed this project, and I look forward to making more!!</em>
 
 <img src="https://media.giphy.com/media/fSdqYkJsG6PrFzrDKD/giphy.gif" width="500" height="400">
+
+
+## Todo List 
+
+Built the <a href="https://github.com/JuanJMendoza/MiniProjects/tree/master/Todo%20List"><strong><em>Todo List</em></strong></a> using <em>HTML</em>, <em>CSS</em>, and <em>jQuery</em>!
+
+><em> Building the <a href="https://github.com/JuanJMendoza/MiniProjects/tree/master/Todo%20List"><strong><em>Todo List</em></strong></a>, gave me the opportunity to work with jQuery. It's made DOM Manipulation so much easier, and I can't wait to use it more often. I'm going to learn MongoDB later and incorporate a DB onto Todo List. I cant wait!! XD</em>
+
+<img src="https://media.giphy.com/media/mDRWygArOAvblYGkV0/giphy.gif" width="400" height="475">
