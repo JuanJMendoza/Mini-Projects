@@ -98,3 +98,12 @@ Built the <a href="https://github.com/JuanJMendoza/MiniProjects/tree/master/Todo
 ><em> Building the <a href="https://github.com/JuanJMendoza/MiniProjects/tree/master/Todo%20List"><strong><em>Todo List</em></strong></a>, gave me the opportunity to work with jQuery. It's made DOM Manipulation so much easier, and I can't wait to use it more often. I'm going to learn MongoDB later and incorporate a DB onto Todo List. I cant wait!! XD</em>
 
 <img src="https://media.giphy.com/media/mDRWygArOAvblYGkV0/giphy.gif" width="400" height="475">
+
+
+## Patatap Clone 
+
+Built the <a href="https://github.com/JuanJMendoza/MiniProjects/tree/master/Patatap%20Clone"><strong><em>Patatap Clone</em></strong></a> using <em>HTML</em>, <em>CSS</em>, <em>Paperjs</em>, and <em>Howlerjs</em>!
+
+><em> Building the <a href="https://github.com/JuanJMendoza/MiniProjects/tree/master/Todo%20List"><strong><em>Todo List</em></strong></a>, gave me the chance to work with frameworks for the very first time. I never knew how easy it was to utilize a framework into your codebase, nor how much it can do to help manifest your thoughts. I definitely see myself utilizing more frameworks in the future. </em>
+
+<img src="https://media.giphy.com/media/VeAfRqk5Cv4wJc5OlP/giphy.gif" width="375" height="400">
